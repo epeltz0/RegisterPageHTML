@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-weight:Bold;
+    font-size: 25px;
+}
+body{
+    background-image:url("1-assets/background.png");
+    background-repeat: no-repeat;
+    background-size: 2000px 2000px;
+}
+.class-1{
+    margin: auto;
+    border-style: inset;
+    border-color: lightseagreen;
+    text-align:center;
+    background-color: ivory;
+    font-size: 16px;
+    padding: 10px;
+    height: 400px;
+    width: 25%;
+
+}
+button{
+    font-weight: lighter;
+    font-size: 15px;
+    background-color: palegoldenrod;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: khaki;
+    text-align: center;
+}
+h2{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.class-2{
+    text-align: right;
+}
